@@ -2,3 +2,19 @@ p{
 text-align: center;
 line-height: 1;
 }
+
+h1 {
+    line-height: 1;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    line-height: 1;
+
+}
+
+h3{
+    text-align: center;
+    line-height: 1;
+}

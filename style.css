@@ -32,12 +32,12 @@ iframe{
 
 ul{
     text-align: center;
-    line-height: 1;
+    line-height: 1.5;
     color: white;
 }
 
 li{
-    text-align: center;
+    margin-left: 40%;
     line-height: 1
 
 }

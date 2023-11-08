@@ -34,3 +34,9 @@ li{
     text-align: center;
     line-height: 1
 }
+
+img{
+    display: block;
+    margin: auto;
+    width: 60%;
+}

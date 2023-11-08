@@ -1,42 +1,53 @@
 p{
 text-align: center;
 line-height: 1;
+color: white;
 }
 
 h1 {
     line-height: 1;
     text-align: center;
+    color: white;
 }
 
 h2{
     text-align: center;
     line-height: 1;
+    color: white;
 
 }
 
 h3{
     text-align: center;
     line-height: 1;
+    color: white;
 }
 
 iframe{
     display: block;
     margin: auto;
     width: 50%;
+    
 }
 
 ul{
     text-align: center;
     line-height: 1;
+    color: white;
 }
 
 li{
     text-align: center;
     line-height: 1
+
 }
 
 img{
     display: block;
     margin: auto;
     width: 30%;
+}
+
+body{
+    background-color: black;
 }

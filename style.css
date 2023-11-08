@@ -1,7 +1,7 @@
 p{
-text-align: center;
-line-height: 2;
-color: white;
+    text-align: center;
+    line-height: 2;
+    color: white;
 }
 
 h1 {
@@ -48,4 +48,6 @@ img{
 
 body{
     background-color: black;
+    line-height: 1.5;
+    font-size: 16px;
 }
